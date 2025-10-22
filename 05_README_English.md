@@ -1,7 +1,7 @@
 <p align="center">
   <b>🌍 Language / Langue:</b><br>
-  <a href="./05_README_Francais.md">🇫🇷 Français</a> |
-  <a href="./05_README_English.md">🇬🇧 English</a>
+  <a href="/simondeqin/Bio-data-workflow-automation/blob/main/05_README_Francais.md">🇫🇷 Français</a> |
+  <a href="/simondeqin/Bio-data-workflow-automation/blob/main/05_README_English.md">🇬🇧 English</a>
 </p>
 
 ---
