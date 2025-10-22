@@ -1,0 +1,22 @@
+# ===========================
+# Bio-data-workflow-automation
+# Requirements for full pipeline
+# ===========================
+
+# --- Core dependencies ---
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1           # Excel read/write support
+joblib>=1.3             # For model persistence
+requests>=2.31          # For API calls (OpenFoodFacts, Google)
+beautifulsoup4>=4.12    # For HTML parsing (Google search)
+lxml>=4.9               # Faster HTML/XML parsing
+
+# --- Machine Learning ---
+scikit-learn>=1.3       # Core ML algorithms (LogisticRegression, LabelEncoder, etc.)
+sentence-transformers>=2.2.2  # Optional embeddings for advanced classification
+torch>=2.1              # Required backend for sentence-transformers
+
+# --- Optional / utilities ---
+tqdm>=4.66              # Progress bars (optional but useful)
+python-dotenv>=1.0      # (optional) Load API keys from .env file if you add environment variables
