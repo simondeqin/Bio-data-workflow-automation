@@ -6,7 +6,7 @@
 
 ---
 
-# 🧩 Bio-data-workflow-automation  
+# 🧩 Bio-Data-Workflow-Automation  
 _A complete and scalable pipeline for enriching and classifying a Bio product catalogue._
 
 ---
