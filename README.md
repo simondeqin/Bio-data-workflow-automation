@@ -1,6 +1,6 @@
 <p align="center">
   <b>🌍 Language / Langue :</b><br>
-  <a href="./05_README_Français.md">🇫🇷 Français</a> |
+  <a href="./05_README_Francais.md">🇫🇷 Français</a> |
   <a href="./05_README_English.md">🇬🇧 English</a>
 </p>
 
