@@ -17,8 +17,9 @@ a digital services agency working with major **organic (Bio)** product manufactu
 The project automates product **normalization**, **completion**, and **classification** using APIs and ML models,  
 improving both **efficiency** and **data quality** within the BioAnalytics database.
 
-👉 For a detailed presentation of the context, methods, and results, please select your preferred version:  
+👉 For more details, see:  
 <a href="05_README_Francais.md">🇫🇷 Français</a> | <a href="05_README_English.md">🇬🇧 English</a>
+
 ---
 
 📘 *Last updated: October 2025*  
