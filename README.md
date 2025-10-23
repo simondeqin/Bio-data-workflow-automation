@@ -18,8 +18,7 @@ The project automates product **normalization**, **completion**, and **classific
 improving both **efficiency** and **data quality** within the BioAnalytics database.
 
 👉 For a detailed presentation of the context, methods, and results, please select your preferred version:  
-**[🇫🇷 French README](./README_Francais.md)** or **[🇬🇧 English README](./README_English.md)**.
-
+<a href="05_README_Francais.md">🇫🇷 Français</a> | <a href="05_README_English.md">🇬🇧 English</a>
 ---
 
 📘 *Last updated: October 2025*  
